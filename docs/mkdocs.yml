@@ -5,6 +5,7 @@ nav:
   - Home: index.md
   - Models: models.md
   - Routers: routers.md
+  - LR2: lr2.md
 
 theme:
   name: material
